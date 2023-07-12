@@ -2,7 +2,7 @@
 
 Neste desafio, foi criado um sistema bancário com um único usuário respeitando algumas ***regras***
 
-###Regras do desafio
+### Regras do desafio
 - São permitidos apenas 3 saques diários
 - Limite de R$ 500,00 por saque
 - Informar quando não há saldo para saque
